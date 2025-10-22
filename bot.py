@@ -10,7 +10,7 @@ import logging
 # Configuration
 API_ID = 27352735
 API_HASH = "8c4512c1052a60e05b05522a2ea12e5e"
-BOT_TOKEN = "tWsleexdzsvc4LEoYIMHzlrCQBJo"
+BOT_TOKEN = "8288555712:AAFnrzKtWsleexdzsvc4LEoYIMHzlrCQBJo"
 
 # Authorized user
 AUTHORIZED_USER = "NeonGhost"  # Username without @
