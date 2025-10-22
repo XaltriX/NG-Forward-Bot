@@ -1,0 +1,4 @@
+telethon
+aiohttp
+asyncio
+python-dotenv
