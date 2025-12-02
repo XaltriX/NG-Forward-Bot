@@ -20,7 +20,7 @@ if sys.platform == 'win32':
 # ============= CONFIGURATION =============
 API_ID = 27352735
 API_HASH = "8c4512c1052a60e05b05522a2ea12e5e"
-BOT_TOKEN = "8088555712:AAFnrzKtWsleexdzsvc4LEoYIMHzlrCQBJo"
+BOT_TOKEN = "8393052840:AAEAjB8Au45uDtgHSRfVWm_vilmMljGuLI8"
 MONGO_URL = "mongodb+srv://tutybhai:786780@cluster0.iueiubc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 
 AUTHORIZED_USER = "NeonGhost"
